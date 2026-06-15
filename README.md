@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dockerized Three-Tier Application
 
 ## Project Overview
@@ -120,3 +121,6 @@ Vignesh
 
 AWS | Linux | DevOps | CCNA
 
+=======
+# dockerized-three-tier-application
+>>>>>>> 78b645b9b2a85fc5c0a24045091259cabb32c48d
